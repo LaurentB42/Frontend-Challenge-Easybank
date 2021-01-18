@@ -1,1 +1,1 @@
-# Frontend Mentor - Easybank landing page challenge
+Frontend Mentor - Easybank landing page challenge
